@@ -37,4 +37,15 @@ python infer.py configs/clip_vit14_text_anchor_224.py --load_from ./output/best_
 The results text file of val and test dataset will be saved in ```./output/best_results/results``` .
 
 ## Citation
-tbd
+```
+@inproceedings{yang2025applying,
+  title={Applying Semantic Anchor in Face Anti-Spoofing Detection for Unified Physical-Digital Attacks},
+  author={Yang, Xu and Zhang, Qi and Xu, Yaowen and Ma, Hui and Zou, Zhaofan and Sun, Hao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3199--3207},
+  year={2025}
+}
+```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
